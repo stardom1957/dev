@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1528258518 source:/home/dominique/devC/calc/calendar/cal.C
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+	"cal.h"
+
+1528259376 /home/dominique/devC/calc/calendar/cal.h
+

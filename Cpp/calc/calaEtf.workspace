@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="calaEtF">
+		<Project filename="calendarAnglais/calendarA.cbp" />
+		<Project filename="calendarFrançais/calendarF/calendarF.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

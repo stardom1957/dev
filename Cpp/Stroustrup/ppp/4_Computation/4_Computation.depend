@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1532295843 source:/home/dominique/devC/Stroustrup/ppp/4_Computation/4_drill_7_v2.cpp
+	"../std_lib_facilities.h"
+
+1530470203 /home/dominique/devC/Stroustrup/ppp/std_lib_facilities.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<list>
+	<forward_list>
+	<vector>
+	<unordered_map>
+	<algorithm>
+	<array>
+	<regex>
+	<random>
+	<stdexcept>
+
+1538624046 source:/home/dominique/devC/Stroustrup/ppp/4_Computation/4_exer_13_primes_v1.cpp
+	"../std_lib_facilities.h"
+
+1538624844 source:/home/dominique/devC/Stroustrup/ppp/4_Computation/4_exer_13_primes_v2.cpp
+	"../std_lib_facilities.h"
+

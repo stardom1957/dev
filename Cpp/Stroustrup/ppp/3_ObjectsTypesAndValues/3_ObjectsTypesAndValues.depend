@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1530477550 source:/home/dominique/devC/Stroustrup/ppp/3_ObjectsTypesAndValues/3.4_arithmeticOperators_v1.cpp
+	"../std_lib_facilities.h"
+
+1530470203 /home/dominique/devC/Stroustrup/ppp/std_lib_facilities.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<list>
+	<forward_list>
+	<vector>
+	<unordered_map>
+	<algorithm>
+	<array>
+	<regex>
+	<random>
+	<stdexcept>
+
+1530478364 source:/home/dominique/devC/Stroustrup/ppp/3_ObjectsTypesAndValues/3.4_arithmeticOperators_v2.cpp
+	"../std_lib_facilities.h"
+
+1530481575 source:/home/dominique/devC/Stroustrup/ppp/3_ObjectsTypesAndValues/3.4_arithmeticOperators_v3.cpp
+	"../std_lib_facilities.h"
+
+1530482213 source:/home/dominique/devC/Stroustrup/ppp/3_ObjectsTypesAndValues/3.4_arithmeticOperators_v4.cpp
+	"../std_lib_facilities.h"
+
+1531003259 source:/home/dominique/devC/Stroustrup/ppp/3_ObjectsTypesAndValues/3.9.8_charIntDoubleConversion_v1.cpp
+	"../std_lib_facilities.h"
+
+1531421035 source:/home/dominique/devC/Stroustrup/ppp/3_ObjectsTypesAndValues/3_ex_1_v1.cpp
+	"../std_lib_facilities.h"
+
+1531428184 source:/home/dominique/devC/Stroustrup/ppp/3_ObjectsTypesAndValues/3_ex_8_v1.cpp
+	"../std_lib_facilities.h"
+

@@ -1,0 +1,9 @@
+#include <iostream>
+use namespace sdt;
+
+int main()
+{
+  cout<<"la taille de «bool» est "<< sizeof(bool)<< "octet\n";
+  cout<<"la taille de «char» est "<< sizeof(char)<< "octets\n";
+  cout<<"la taille de «bool» est "<< sizeof(bool)<< "octets\n";
+}

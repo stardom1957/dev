@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="ppp">
+		<Project filename="2.5_drill_v1/2.5_drill_v1.cbp" />
+		<Project filename="3_ObjectsTypesAndValues/3_ObjectsTypesAndValues.cbp" />
+		<Project filename="4_Computation/4_Computation.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

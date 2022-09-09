@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1528756585 source:/home/dominique/devC/calc/calendarFrançais/calf.C
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+	"calf.h"
+
+1528756385 /home/dominique/devC/calc/calendarFrançais/calf.h
+
+1528749587 source:/home/dominique/devC/calc/calendarFrançais/calendarF/main.c
+	<stdio.h>
+	<stdlib.h>
+
