@@ -4,6 +4,6 @@ The languages can be derived from the folder names.
 
 ## Introduction
 
-Au départ on commence icitte ...
+Au départ on __commence__ icitte ...
 
 
